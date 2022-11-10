@@ -1,0 +1,15 @@
+/home/minim/Документы/C#/hw8/62/obj/Debug/net6.0/62.csproj.AssemblyReference.cache
+/home/minim/Документы/C#/hw8/62/obj/Debug/net6.0/62.GeneratedMSBuildEditorConfig.editorconfig
+/home/minim/Документы/C#/hw8/62/obj/Debug/net6.0/62.AssemblyInfoInputs.cache
+/home/minim/Документы/C#/hw8/62/obj/Debug/net6.0/62.AssemblyInfo.cs
+/home/minim/Документы/C#/hw8/62/obj/Debug/net6.0/62.csproj.CoreCompileInputs.cache
+/home/minim/Документы/C#/hw8/62/bin/Debug/net6.0/62
+/home/minim/Документы/C#/hw8/62/bin/Debug/net6.0/62.deps.json
+/home/minim/Документы/C#/hw8/62/bin/Debug/net6.0/62.runtimeconfig.json
+/home/minim/Документы/C#/hw8/62/bin/Debug/net6.0/62.dll
+/home/minim/Документы/C#/hw8/62/bin/Debug/net6.0/62.pdb
+/home/minim/Документы/C#/hw8/62/obj/Debug/net6.0/62.dll
+/home/minim/Документы/C#/hw8/62/obj/Debug/net6.0/refint/62.dll
+/home/minim/Документы/C#/hw8/62/obj/Debug/net6.0/62.pdb
+/home/minim/Документы/C#/hw8/62/obj/Debug/net6.0/62.genruntimeconfig.cache
+/home/minim/Документы/C#/hw8/62/obj/Debug/net6.0/ref/62.dll
